@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         YouTube Subtitle Preview+
+// @name         YouTube Subtitle Preview Plus
 // @namespace    https://github.com/hjie/YouTube-Subtitle-Preview-Plus
 // @version      0.0.1
 // @description  to check subtitle when you search
